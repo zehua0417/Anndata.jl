@@ -1,0 +1,24 @@
+name = "Anndata"
+uuid = "0dc34b6f-5bcb-42b6-a8ca-9150e549d726"
+authors = ["zehua0417 <zehuali0417@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CategoricalArrays = "324d7699-5711-5eae-9e2f-1d82baa6b597"
+CompressHashDisplace = "33dc01b2-0ff1-4271-8670-ed883dd4b55b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+PooledArrays = "2dfb63ee-cc39-5dd5-95bd-886bf059d720"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StructArrays = "09ab397b-f2b6-538f-b94a-2f83cf4a842a"
+
+[compat]
+CategoricalArrays = "0.10.8"
+CompressHashDisplace = "0.1.2"
+DataFrames = "1.7.0"
+HDF5 = "0.17.2"
+LinearAlgebra = "1.11.0"
+PooledArrays = "1.4.3"
+SparseArrays = "1.11.0"
+StructArrays = "0.7.0"
