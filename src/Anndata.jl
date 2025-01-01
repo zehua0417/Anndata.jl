@@ -29,6 +29,6 @@ include("sparsedataset.jl")
 include("transposeddataset.jl")
 include("hdf5_io.jl")
 include("alignedmapping.jl")
-include("anndata.jl")
+include("datastruct.jl")
 include("utils.jl")
 end # module Anndata

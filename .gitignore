@@ -27,3 +27,6 @@ Manifest-v*.toml
 
 # Directory used by VScode for local settings
 .vscode/
+
+demo.jl
+demo/
